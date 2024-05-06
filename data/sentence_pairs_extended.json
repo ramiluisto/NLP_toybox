@@ -1,0 +1,606 @@
+{
+    "female-male": [
+        [
+            "She went home.",
+            "He went home."
+        ],
+        [
+            "The queen gave a speech.",
+            "The king gave a speech."
+        ],
+        [
+            "The teacher told their mother.",
+            "The teacher told their father"
+        ],
+        [
+            "The woman solved the problem.",
+            "The man solved the problem."
+        ],
+        [
+            "She loves playing the piano.",
+            "He loves playing the piano."
+        ],
+        [
+            "The actress won an award.",
+            "The actor won an award."
+        ],
+        [
+            "The waitress brought the menu.",
+            "The waiter brought the menu."
+        ],
+        [
+            "Her performance was outstanding.",
+            "His performance was outstanding."
+        ],
+        [
+            "The girl discovered a new species.",
+            "The boy discovered a new species."
+        ],
+        [
+            "She is running for office.",
+            "He is running for office."
+        ],
+        [
+            "The female CEO announced a merger.",
+            "The male CEO announced a merger."
+        ],
+        [
+            "She wrote a bestselling novel.",
+            "He wrote a bestselling novel."
+        ],
+        [
+            "The mother was awarded for bravery.",
+            "The father was awarded for bravery."
+        ]
+    ],
+    "green-brown": [
+        [
+            "The green car won the race.",
+            "The brown car won the race."
+        ],
+        [
+            "They wore green shoes to the party.",
+            "They wore brown shoes to the party."
+        ],
+        [
+            "The green apple tasted sweet.",
+            "The brown apple tasted sweet."
+        ],
+        [
+            "We painted the house green.",
+            "We painted the house brown."
+        ],
+        [
+            "The green book is on the table.",
+            "The brown book is on the table."
+        ],
+        [
+            "They chose the green tile for the kitchen.",
+            "They chose the brown tile for the kitchen."
+        ],
+        [
+            "The green grass covered the hill.",
+            "The brown grass covered the hill."
+        ],
+        [
+            "My eyes are green.",
+            "My eyes are brown."
+        ],
+        [
+            "The green marker is out of ink.",
+            "The brown marker is out of ink."
+        ],
+        [
+            "You found a green coat in the closet.",
+            "You found a brown coat in the closet."
+        ]
+    ],
+    "bright-dim": [
+        [
+            "The bright light illuminated the room.",
+            "The dim light illuminated the room."
+        ],
+        [
+            "I prefer bright colors for my designs.",
+            "I prefer dim colors for my designs."
+        ],
+        [
+            "The bright screen hurts my eyes.",
+            "The dim screen hurts my eyes."
+        ],
+        [
+            "On a bright day, the park is full of people.",
+            "On a dim day, the park is full of people."
+        ],
+        [
+            "The bright stars were visible from the balcony.",
+            "The dim stars were visible from the balcony."
+        ],
+        [
+            "Sp uses a bright lamp for reading.",
+            "He uses a dim lamp for reading."
+        ],
+        [
+            "The painting was bright and cheerful.",
+            "The painting was dim and melancholic."
+        ],
+        [
+            "Their new kitchen has bright lighting.",
+            "Their new kitchen has dim lighting."
+        ],
+        [
+            "She has a bright future ahead.",
+            "She has a dim future ahead."
+        ],
+        [
+            "The room's bright decor made it feel welcoming.",
+            "The room's dim decor made it feel cozy."
+        ]
+    ],
+    "finnish-czech": [
+        [
+            "The Finnish scientist discovered a new element.",
+            "The Czech scientist discovered a new element."
+        ],
+        [
+            "They listened to Finnish folk music.",
+            "They listened to Czech folk music."
+        ],
+        [
+            "The Finnish company expanded its operations.",
+            "The Czech company expanded its operations."
+        ],
+        [
+            "The president loves Finnish design.",
+            "The president loves Czech design."
+        ],
+        [
+            "The Finnish language is known for its complexity.",
+            "The Czech language is known for its complexity."
+        ],
+        [
+            "They enjoyed the Finnish spa experience.",
+            "They enjoyed the Czech spa experience."
+        ],
+        [
+            "Finnish education system is highly regarded.",
+            "Czech education system is highly regarded."
+        ],
+        [
+            "We made a traditional Finnish meal.",
+            "We made a traditional Czech meal."
+        ],
+        [
+            "The Finnish athlete won the gold medal.",
+            "The Czech athlete won the gold medal."
+        ]
+    ],
+    "funny-sad": [
+        [
+            "The movie was so funny, we couldn't believe it.",
+            "The movie was so sad, we couldn't believe it."
+        ],
+        [
+            "They found the story funny.",
+            "They found the story sad."
+        ],
+        [
+            "The play's funny ending surprised everyone.",
+            "The play's sad ending surprised everyone."
+        ],
+        [
+            "This book is full of funny anecdotes.",
+            "This book is full of sad anecdotes."
+        ],
+        [
+            "The president's speech was unexpectedly funny.",
+            "The president's speech was unexpectedly sad."
+        ],
+        [
+            "We thought the situation was funny at first.",
+            "We thought the situation was sad at first."
+        ],
+        [
+            "They made a funny mistake.",
+            "They made a sad mistake."
+        ],
+        [
+            "The comedian's routine was extremely funny.",
+            "The comedian's routine was extremely sad."
+        ],
+        [
+            "The painting had a funny detail in the corner.",
+            "The painting had a sad detail in the corner."
+        ]
+    ],
+    "doctor-nurse": [
+        [
+            "The doctor diagnosed the patient accurately.",
+            "The nurse diagnosed the patient accurately."
+        ],
+        [
+            "They called for the doctor immediately.",
+            "They called for the nurse immediately."
+        ],
+        [
+            "The doctor recommended taking the medicine with food.",
+            "The nurse recommended taking the medicine with food."
+        ],
+        [
+            "We need to schedule an appointment with the doctor.",
+            "We need to schedule an appointment with the nurse."
+        ],
+        [
+            "The doctor's office was busy with patients.",
+            "The nurse's office was busy with patients."
+        ],
+        [
+            "The doctor was walking down the street.",
+            "The nurse was walking down the street."
+        ],
+        [
+            "The doctor's stethoscope was missing.",
+            "The nurse's stethoscope was missing."
+        ],
+        [
+            "The doctor's handwriting was difficult to read.",
+            "The nurse's handwriting was difficult to read."
+        ],
+        [
+            "The doctor's office was on the third floor.",
+            "The nurse's office was on the third floor."
+        ]
+    ],
+    "laugh-cry": [
+        [
+            "The baby was laughing.",
+            "The baby was crying."
+        ],
+        [
+            "We laughed at the story.",
+            "We cried at the story."
+        ],
+        [
+            "They laughed when they saw the picture.",
+            "They cried when they saw the picture"
+        ],
+        [
+            "The children were laughing in the park.",
+            "The children were crying in the park."
+        ],
+        [
+            "The movie ended with the sound of laughter.",
+            "The movie ended with the sound of crying."
+        ],
+        [
+            "At the reunion, their greeting was met with laughter.",
+            "At the reunion, their greeting was met with crying."
+        ],
+        [
+            "The laughter filled the entire hall.",
+            "The crying filled the entire hall."
+        ],
+        [
+            "During the speech, there was sudden laughter from the audience.",
+            "During the speech, there was sudden crying from the audience."
+        ],
+        [
+            "The laughter from the children could be heard outside.",
+            "The crying from the children could be heard outside."
+        ],
+        [
+            "Laughter is the best medicine.",
+            "Crying is the best medicine."
+        ],
+        [
+            "Their laughter was contagious.",
+            "Their crying was contagious."
+        ],
+        [
+            "The play's climax was met with laughter.",
+            "The play's climax was met with crying."
+        ]
+    ],
+    "male-female": [
+        [
+            "He went home.",
+            "She went home."
+        ],
+        [
+            "The king gave a speech.",
+            "The queen gave a speech."
+        ],
+        [
+            "The teacher told their father",
+            "The teacher told their mother."
+        ],
+        [
+            "The man solved the problem.",
+            "The woman solved the problem."
+        ],
+        [
+            "He loves playing the piano.",
+            "She loves playing the piano."
+        ],
+        [
+            "The actor won an award.",
+            "The actress won an award."
+        ],
+        [
+            "The waiter brought the menu.",
+            "The waitress brought the menu."
+        ],
+        [
+            "His performance was outstanding.",
+            "Her performance was outstanding."
+        ],
+        [
+            "The boy discovered a new species.",
+            "The girl discovered a new species."
+        ],
+        [
+            "He is running for office.",
+            "She is running for office."
+        ],
+        [
+            "The male CEO announced a merger.",
+            "The female CEO announced a merger."
+        ],
+        [
+            "He wrote a bestselling novel.",
+            "She wrote a bestselling novel."
+        ],
+        [
+            "The father was awarded for bravery.",
+            "The mother was awarded for bravery."
+        ]
+    ],
+    "brown-green": [
+        [
+            "The brown car won the race.",
+            "The green car won the race."
+        ],
+        [
+            "They wore brown shoes to the party.",
+            "They wore green shoes to the party."
+        ],
+        [
+            "The brown apple tasted sweet.",
+            "The green apple tasted sweet."
+        ],
+        [
+            "We painted the house brown.",
+            "We painted the house green."
+        ],
+        [
+            "The brown book is on the table.",
+            "The green book is on the table."
+        ],
+        [
+            "They chose the brown tile for the kitchen.",
+            "They chose the green tile for the kitchen."
+        ],
+        [
+            "The brown grass covered the hill.",
+            "The green grass covered the hill."
+        ],
+        [
+            "My eyes are brown.",
+            "My eyes are green."
+        ],
+        [
+            "The brown marker is out of ink.",
+            "The green marker is out of ink."
+        ],
+        [
+            "You found a brown coat in the closet.",
+            "You found a green coat in the closet."
+        ]
+    ],
+    "dim-bright": [
+        [
+            "The dim light illuminated the room.",
+            "The bright light illuminated the room."
+        ],
+        [
+            "I prefer dim colors for my designs.",
+            "I prefer bright colors for my designs."
+        ],
+        [
+            "The dim screen hurts my eyes.",
+            "The bright screen hurts my eyes."
+        ],
+        [
+            "On a dim day, the park is full of people.",
+            "On a bright day, the park is full of people."
+        ],
+        [
+            "The dim stars were visible from the balcony.",
+            "The bright stars were visible from the balcony."
+        ],
+        [
+            "He uses a dim lamp for reading.",
+            "Sp uses a bright lamp for reading."
+        ],
+        [
+            "The painting was dim and melancholic.",
+            "The painting was bright and cheerful."
+        ],
+        [
+            "Their new kitchen has dim lighting.",
+            "Their new kitchen has bright lighting."
+        ],
+        [
+            "She has a dim future ahead.",
+            "She has a bright future ahead."
+        ],
+        [
+            "The room's dim decor made it feel cozy.",
+            "The room's bright decor made it feel welcoming."
+        ]
+    ],
+    "czech-finnish": [
+        [
+            "The Czech scientist discovered a new element.",
+            "The Finnish scientist discovered a new element."
+        ],
+        [
+            "They listened to Czech folk music.",
+            "They listened to Finnish folk music."
+        ],
+        [
+            "The Czech company expanded its operations.",
+            "The Finnish company expanded its operations."
+        ],
+        [
+            "The president loves Czech design.",
+            "The president loves Finnish design."
+        ],
+        [
+            "The Czech language is known for its complexity.",
+            "The Finnish language is known for its complexity."
+        ],
+        [
+            "They enjoyed the Czech spa experience.",
+            "They enjoyed the Finnish spa experience."
+        ],
+        [
+            "Czech education system is highly regarded.",
+            "Finnish education system is highly regarded."
+        ],
+        [
+            "We made a traditional Czech meal.",
+            "We made a traditional Finnish meal."
+        ],
+        [
+            "The Czech athlete won the gold medal.",
+            "The Finnish athlete won the gold medal."
+        ]
+    ],
+    "sad-funny": [
+        [
+            "The movie was so sad, we couldn't believe it.",
+            "The movie was so funny, we couldn't believe it."
+        ],
+        [
+            "They found the story sad.",
+            "They found the story funny."
+        ],
+        [
+            "The play's sad ending surprised everyone.",
+            "The play's funny ending surprised everyone."
+        ],
+        [
+            "This book is full of sad anecdotes.",
+            "This book is full of funny anecdotes."
+        ],
+        [
+            "The president's speech was unexpectedly sad.",
+            "The president's speech was unexpectedly funny."
+        ],
+        [
+            "We thought the situation was sad at first.",
+            "We thought the situation was funny at first."
+        ],
+        [
+            "They made a sad mistake.",
+            "They made a funny mistake."
+        ],
+        [
+            "The comedian's routine was extremely sad.",
+            "The comedian's routine was extremely funny."
+        ],
+        [
+            "The painting had a sad detail in the corner.",
+            "The painting had a funny detail in the corner."
+        ]
+    ],
+    "nurse-doctor": [
+        [
+            "The nurse diagnosed the patient accurately.",
+            "The doctor diagnosed the patient accurately."
+        ],
+        [
+            "They called for the nurse immediately.",
+            "They called for the doctor immediately."
+        ],
+        [
+            "The nurse recommended taking the medicine with food.",
+            "The doctor recommended taking the medicine with food."
+        ],
+        [
+            "We need to schedule an appointment with the nurse.",
+            "We need to schedule an appointment with the doctor."
+        ],
+        [
+            "The nurse's office was busy with patients.",
+            "The doctor's office was busy with patients."
+        ],
+        [
+            "The nurse was walking down the street.",
+            "The doctor was walking down the street."
+        ],
+        [
+            "The nurse's stethoscope was missing.",
+            "The doctor's stethoscope was missing."
+        ],
+        [
+            "The nurse's handwriting was difficult to read.",
+            "The doctor's handwriting was difficult to read."
+        ],
+        [
+            "The nurse's office was on the third floor.",
+            "The doctor's office was on the third floor."
+        ]
+    ],
+    "cry-laugh": [
+        [
+            "The baby was crying.",
+            "The baby was laughing."
+        ],
+        [
+            "We cried at the story.",
+            "We laughed at the story."
+        ],
+        [
+            "They cried when they saw the picture",
+            "They laughed when they saw the picture."
+        ],
+        [
+            "The children were crying in the park.",
+            "The children were laughing in the park."
+        ],
+        [
+            "The movie ended with the sound of crying.",
+            "The movie ended with the sound of laughter."
+        ],
+        [
+            "At the reunion, their greeting was met with crying.",
+            "At the reunion, their greeting was met with laughter."
+        ],
+        [
+            "The crying filled the entire hall.",
+            "The laughter filled the entire hall."
+        ],
+        [
+            "During the speech, there was sudden crying from the audience.",
+            "During the speech, there was sudden laughter from the audience."
+        ],
+        [
+            "The crying from the children could be heard outside.",
+            "The laughter from the children could be heard outside."
+        ],
+        [
+            "Crying is the best medicine.",
+            "Laughter is the best medicine."
+        ],
+        [
+            "Their crying was contagious.",
+            "Their laughter was contagious."
+        ],
+        [
+            "The play's climax was met with crying.",
+            "The play's climax was met with laughter."
+        ]
+    ]
+}
